@@ -12,6 +12,8 @@ dependencies = [
     "langchain>=1.4.6",
     "langchain-anthropic>=1.7.6",
     "langchain-community>=0.4.2",
+    "langgraph>=1.2.15",
+    "langsmith>=0.14.11",
     "python-dotenv>=1.2.4",
 ]
 
