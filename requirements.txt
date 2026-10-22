@@ -5,3 +5,7 @@ python-dotenv
 langgraph
 langsmith
 langchain_tavily
+# MCP
+langchain-mcp-adapters
+mcp
+pageindex
