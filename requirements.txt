@@ -9,3 +9,5 @@ langchain_tavily
 langchain-mcp-adapters
 mcp
 pageindex
+
+deepagents
